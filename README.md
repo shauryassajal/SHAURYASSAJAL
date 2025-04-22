@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm on a mission to build my own LLM from scratch, and thi
 
 ## 📊 My LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/SHAURYASSAJAL?ext=heatmap)](https://leetcode.com/SHAURYASSAJAL)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SHAURYASSAJAL?ext=heatmap)](https://leetcode.com/Shaurya_singh780)
 
 ---
 
@@ -30,7 +30,6 @@ Welcome to my GitHub! I'm on a mission to build my own LLM from scratch, and thi
 ## 🌐 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/journeywithshaurya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)] I'm not active right now
 
 ---
 
