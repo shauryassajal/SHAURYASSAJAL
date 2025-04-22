@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm on a mission to build my own LLM from scratch, and thi
 
 ## 📊 My LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/SHAURYASSAJAL?ext=heatmap)](https://leetcode.com/Shaurya_singh780)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Shaurya_singh780?ext=heatmap)](https://leetcode.com/Shaurya_singh780)
 
 ---
 
