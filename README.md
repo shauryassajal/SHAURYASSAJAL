@@ -6,7 +6,6 @@ Welcome to my GitHub! I'm on a mission to build my own LLM from scratch, and thi
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: My own Large Language Model (LLM)
 - 🌱 I’m currently learning: NLP, LLM Engineering, Computer Vision and Deep Learning
 - 🤝 I’m open to collaborating on: AI research, Open-source LLM, ML projects.
 - 💬 Ask me about: LLMs, Python, AI, or anything tech-related
