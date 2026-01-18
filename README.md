@@ -14,18 +14,6 @@ Welcome to my GitHub!
 
 ---
 
-## 📊 My LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Shaurya_singh780?ext=heatmap)](https://leetcode.com/Shaurya_singh780)
-
----
-
-## 🧠 GitHub Stats
-
-![Shaurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shauryassajal&show_icons=true&theme=tokyonight)
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaurya-singhhh/)
