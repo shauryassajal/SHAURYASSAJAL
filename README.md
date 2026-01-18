@@ -10,7 +10,7 @@ Welcome to my GitHub!
 - 🤝 I’m open to collaborating on: AI research, Open-source LLM, ML projects.
 - 💬 Ask me about: LLMs, Python, AI, or anything tech-related
 - 📫 How to reach me: Email me on shaurya.0906.singh@gmail.com
-- ⚡ Fun fact: I love building futuristic systems... and I might just make it real 😎
+- ⚡ Right now, I'm an Intern in GenAI Research & Development
 
 ---
 
@@ -28,7 +28,6 @@ Welcome to my GitHub!
 
 ## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/journeywithshaurya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaurya-singhhh/)
 
 ---
